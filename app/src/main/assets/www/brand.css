@@ -1,0 +1,15 @@
+/* YEETU brand: teal #00C6A7, orange #FF8C00, navy #0B1F3B, white #F8FAFC */
+#screen-login{background:radial-gradient(800px 520px at 12% 0%,#0b6a72 0%,transparent 60%),radial-gradient(520px 340px at 100% 100%,#FF8C0044 0%,transparent 60%),#0B1F3B !important}
+#screen-login .auth-card{background:linear-gradient(160deg,#12294a,#0d2038)!important;border:1px solid #ffffff1f!important;border-radius:24px!important;box-shadow:0 30px 80px -30px #000c!important;color:#F8FAFC!important}
+#screen-login .auth-card>img{box-shadow:0 12px 34px -10px #00C6A7aa}
+#screen-login .vb-shop-name{color:#F8FAFC!important;letter-spacing:3px;font-weight:800}
+#screen-login .hint{color:#9fb3c8!important}
+#screen-login .tabs{background:#0a1830!important;border-radius:14px!important;padding:4px!important;border:0!important}
+#screen-login .tab{color:#9fb3c8!important;background:transparent!important;border:0!important;border-radius:11px!important}
+#screen-login .tab.active{background:linear-gradient(135deg,#2fe9cb,#00C6A7)!important;color:#062033!important;font-weight:700!important}
+#screen-login label{color:#cfe0ee!important}
+#screen-login input{background:#0a1830!important;border:1.5px solid #ffffff26!important;color:#F8FAFC!important;border-radius:12px!important}
+#screen-login input:focus{border-color:#00C6A7!important;outline:0!important;box-shadow:0 0 0 3px #00C6A733!important}
+#screen-login .primary{background:linear-gradient(135deg,#2fe9cb,#00C6A7)!important;color:#062033!important;border:0!important;border-radius:14px!important;font-weight:800!important;box-shadow:0 10px 26px -10px #00C6A7bb!important}
+#screen-login .linkbtn{color:#00C6A7!important}
+#screen-login .form-error{color:#ff9a9a!important}
